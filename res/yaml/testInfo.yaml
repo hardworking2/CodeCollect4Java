@@ -1,0 +1,9 @@
+# 自动化测试配置信息
+testBranch: MMNES1.5
+testDeviceList:
+  - deviceName: N3
+    deviceSDK: 26
+    deviceUid: cf130961
+testSubscriber: 
+  - kiwi188141@163.com
+  - ikiwi@139.com
